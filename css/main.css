@@ -1067,7 +1067,7 @@ h1, h2, h3, h4, h5, h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #8490ff;
+  border-top: 2px solid #8490ff;
 }
 
 .progress-table-wrap {
@@ -2211,7 +2211,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-service .icon {
-  margin-right: 40px;
+  /* margin-right: 40px; */
 }
 
 .single-service a {
@@ -2417,7 +2417,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer-area {
-  padding-top: 100px;
+  padding-top: 50px;
+  padding-bottom:35px;
   background-color: #222222;
 }
 
